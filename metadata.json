@@ -1,0 +1,7 @@
+{
+  "name": "HUB SOBERANO ADEGA",
+  "description": "Sistema de gestão completo para adegas com controle de estoque, vendas, caixa e movimentações.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
